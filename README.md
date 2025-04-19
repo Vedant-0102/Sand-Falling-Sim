@@ -29,7 +29,7 @@ A simple falling sand simulator built using HTML, CSS, and JavaScript.
 ![Sand](https://github.com/user-attachments/assets/06f707a9-42be-4ea3-aedf-b4adee6aa6e9)
 
 ### Option to save image:
-![Save-as](https://github.com/Vedant-0102/Sand-Falling-Sim/blob/main/assets/Save-as.png)
+![Save-as](https://github.com/user-attachments/assets/c00dc7af-2877-4346-85c4-c8477b495637)
 
 ## Technologies Used
 - HTML
